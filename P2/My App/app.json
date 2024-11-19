@@ -7,7 +7,7 @@
   "name": "My App",
   "privacyStatement": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "description": "Hello World sample app for AppSource",
-  "version": "1.0.0.0",
+  "version": "2.1.0.0",
   "application": "22.0.0.0",
   "url": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "brief": "Hello World for AppSource",
